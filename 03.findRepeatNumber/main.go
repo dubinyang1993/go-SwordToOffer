@@ -16,4 +16,3 @@ func findRepeatNumber1(nums []int) int {
 	}
 	return -1
 }
-
