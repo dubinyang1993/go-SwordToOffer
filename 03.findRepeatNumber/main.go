@@ -16,3 +16,7 @@ func findRepeatNumber1(nums []int) int {
 	}
 	return -1
 }
+
+func findRepeatNumber2(nums []int) int {
+	return -1
+}
